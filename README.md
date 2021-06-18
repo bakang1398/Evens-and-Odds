@@ -1,5 +1,5 @@
 # Evens-and-Odds
-showcases if a number is even or odd
+showcases a function that checks if the numver is even or odd.
 
 # Languages
 - HTML
